@@ -80,29 +80,29 @@ After successfully login, he
 
 Teacher can sign up and login into his/her account using password (in case of login). 
 
-<img src=" https://user-images.githubusercontent.com/64039135/135768170-a6175589-b7d3-4dc0-b2fc-ea8f7970b7dc.PNG" width="600px" height="250px" />
+<img src="https://user-images.githubusercontent.com/64039135/135768170-a6175589-b7d3-4dc0-b2fc-ea8f7970b7dc.PNG" width="800px" height="400px" />
 
 After successfully login, he can see
 1.	his personal information on a side navigation bar in a Teacher portal.
-<img src=" https://user-images.githubusercontent.com/64039135/135768220-110b8cc4-7754-4e32-9ad8-3407d73366d4.PNG" width="600px" height="250px" />
+<img src="https://user-images.githubusercontent.com/64039135/135768220-110b8cc4-7754-4e32-9ad8-3407d73366d4.PNG" width="800px" height="400px" />
 
 2.	He can view his salary payment detail and schedule, also can enter and edit student's marks.
-<img src=" https://user-images.githubusercontent.com/64039135/135768273-cc2d7d90-9f79-47dd-b0cf-1bd827b46a88.PNG" width="600px" height="250px" />
+<img src="https://user-images.githubusercontent.com/64039135/135768273-cc2d7d90-9f79-47dd-b0cf-1bd827b46a88.PNG" width="800px" height="400px" />
 
-<img src=" https://user-images.githubusercontent.com/64039135/135768328-5417a03b-2da9-4823-85e2-f2c5b266f9b9.PNG" width="600px" height="250px" />
+<img src="https://user-images.githubusercontent.com/64039135/135768328-5417a03b-2da9-4823-85e2-f2c5b266f9b9.PNG" width="800px" height="400px" />
 
 
 ## Student View:
 
 Student can sign up and login into his/her account using password (in case of login).
 
-<img src=" https://user-images.githubusercontent.com/64039135/135768379-dfbc6227-cf1f-4b2b-a6f7-470d859303d4.PNG" width="600px" height="250px" />
+<img src="https://user-images.githubusercontent.com/64039135/135768379-dfbc6227-cf1f-4b2b-a6f7-470d859303d4.PNG" width="800px" height="400px" />
 
  After successfully login, he can see
 1.	his personal information on a side navigation bar in a Student portal.
-<img src=" (https://user-images.githubusercontent.com/64039135/135768437-03f35b76-5a90-48d0-a646-ac8bf0bd1ea7.PNG" width="600px" height="250px" />
+<img src="https://user-images.githubusercontent.com/64039135/135768437-03f35b76-5a90-48d0-a646-ac8bf0bd1ea7.PNG" width="800px" height="400px" />
 
 2.	He can view his fees payment detail, examination result marks, subject and schedule
 
-<img src=" https://user-images.githubusercontent.com/64039135/135768473-bfe8dab5-277b-460f-af33-7e31b86f0619.PNG" width="600px" height="250px" />
+<img src="https://user-images.githubusercontent.com/64039135/135768473-bfe8dab5-277b-460f-af33-7e31b86f0619.PNG" width="800px" height="400px" />
 
